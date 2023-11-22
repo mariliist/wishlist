@@ -1,11 +1,11 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 
-.container{
+.container {
     margin: 5rem auto;
     text-align: center;
     width: 75%;
@@ -16,10 +16,11 @@ h1 {
 }
 
 .wishlist {
-
+    margin: 5rem auto;
+    text-align: center;
 }
 
-ul{
+ul {
     list-style: none;
 }
 
