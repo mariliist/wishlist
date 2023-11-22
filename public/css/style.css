@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    margin: 5rem auto;
+    text-align: center;
+    width: 75%;
+}
+
+h1 {
+    margin-bottom: 2rem;
+}
+
+.wishlist {
+
+}
+
+ul{
+    list-style: none;
+}
+
+input {
+    padding: .2rem;
+}
+
+button {
+    padding: .2rem;
+    border-style: ;
+}
